@@ -23,13 +23,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linhnd99&label=Profile%20views&color=0e75b6&style=flat" alt="linhnd99" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linhnd99&show_icons=true&locale=en" alt="linhnd99" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/linh.nguyenduc.99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="linh.nguyenduc.99" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/systemadmin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="systemadmin" height="30" width="40" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikage&show_icons=true&locale=en" alt="linhnd99" /></p>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linhnd99&show_icons=true&locale=en&layout=compact" alt="linhnd99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikage&show_icons=true&locale=en&layout=compact" alt="vikage" /></p>
 
