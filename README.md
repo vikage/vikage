@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Thanh Vu</h1>
 <h3 align="center">Software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikage&label=Profile%20views&color=0e75b6&style=flat" alt="vikage" /> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikage&show_icons=true&locale=en" alt="vikage" /></p>
 </p>
 
