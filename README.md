@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Z](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 <h1 align="center">I'm Thanh Vu</h1>
-<h3 align="center">Software engineer</h3>
+<h3 align="center">iOS Engineer</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikage&show_icons=true&locale=en" alt="vikage" /></p>
 </p>
